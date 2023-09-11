@@ -1,1 +1,39 @@
-
+{
+    "watches": [
+      {
+        "id": 1,
+        "name": "Rolex Submariner",
+        "price": "$8,000"
+      },
+      {
+        "id": 2,
+        "name": "Omega Speedmaster Professional",
+        "price": "$5,500"
+      },
+      {
+        "id": 3,
+        "name": "Tag Heuer Carrera",
+        "price": "$3,200"
+      },
+      {
+        "id": 4,
+        "name": "Patek Philippe Nautilus",
+        "price": "$30,000"
+      },
+      {
+        "id": 5,
+        "name": "Audemars Piguet Royal Oak",
+        "price": "$25,000"
+      },
+      {
+        "id": 6,
+        "name": "Seiko SKX007",
+        "price": "$200"
+      },
+      {
+        "id": 7,
+        "name": "Citizen Eco-Drive",
+        "price": "$150"
+      }
+    ]
+  }
